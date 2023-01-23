@@ -1,0 +1,10 @@
+type Alcohol = { amount: number };
+
+const writeCode = (beer: Alcohol) => {
+  while (beer.amount > 0) {
+    beer.amount--;
+    console.log('Writing code...');
+  }
+};
+// in desiliters
+writeCode({ amount: 10 });
