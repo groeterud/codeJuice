@@ -1,1 +1,1 @@
-Add your own coffee functions as required in different languages.
+Add your own beverage functions as required in different languages.
